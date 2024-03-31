@@ -1,0 +1,11 @@
+torch
+sentence_transformers
+transformers
+langchain
+pypdf
+PyPDF2
+jinja2
+qdrant-client
+ctransformers
+python-multipart
+aiofiles
